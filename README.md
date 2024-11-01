@@ -1,0 +1,2 @@
+# looper
+to loop ghidra
